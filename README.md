@@ -1,2 +1,2 @@
 # Learn-Github
-1st repository
+After making a branch, trying to make and commit a change
